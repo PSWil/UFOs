@@ -26,9 +26,10 @@ The webpage and table do a very good job of displaying and filtering the data of
 ### Further Recommendations
 
 There are many potential things we can do in order to improve the webpage and the usability of the table. 
-1. My first recomendation would be to implement some functionality of the page in order to update the data set with new data as it comes in, either via api's or webscrapping. With more current data being loaded into the data set, users will have a more complete understanding of the UFO sightings in the US. 
+1. My first recommendation would be to implement some functionality of the page in order to update the data set with new data as it comes in, either via API’s or web scrapping. With more current data being loaded into the data set, users will have a more complete understanding of the UFO sightings in the US. 
 2. Additionally, search functionality is case sensitive so users must be careful to correctly enter the search criteria.
 
 
-There are many things we could do to improve the overall experience and functionallity of the table, but these two things should be a good start to make it a more relevent webpage.
+There are many things we could do to improve the overall experience and functionality of the table, but these two things should be a good start to make it a more relevant webpage.
+
 
