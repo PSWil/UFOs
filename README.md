@@ -6,11 +6,16 @@ The purpose of this project is to create a easy to use webpage that contains a d
 
 ## Results
 
-Bellow you can see an image of the final webpage. You can also visit the webpage [here](https://pswil.github.io/UFOs/index.html) if you like.
+Bellow you can see an image of the final webpage. You can also visit the page [here](https://pswil.github.io/UFOs/index.html) if you like.
 
 ![alt text](https://github.com/PSWil/UFOs/blob/main/static/images/Page_overview.png)
 
-There is a description of how to perform a search, with images. (Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.) (4 pt)
+The resulting page that includes some background on the history and controversy surrounding UFO sightings. Below 
+
+Resulting is a webpage with a little background on the controversy behind UFO sightings and their significance.
+Just below, you will find sighting data that includes the following:
+
+On the webpage you can scroll through the table to see all of the different UFO sightings or you can use the filters on the left side. These filters allow you to filter the table by the date, city, state, country, or shape of UFO seen.
 
 ![alt text](https://github.com/PSWil/UFOs/blob/main/static/images/Page_search.png)
 
