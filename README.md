@@ -4,6 +4,9 @@
 
 Overview of the analysis:
 
+![alt text](https://github.com/PSWil/UFOs/blob/main/static/images/Page_overview.png)
+![alt text](https://github.com/PSWil/UFOs/blob/main/static/images/Page_search.png)
+
 The purpose is well defined (2 pt)
 Results:
 
