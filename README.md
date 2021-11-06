@@ -6,9 +6,7 @@ The purpose of this project is to create a easy to use webpage that contains a d
 
 ## Results
 
-Bellow you can see an image of the final webpage. There is also a link included so that users can visit the page.
-
-[Visit the Page](https://pswil.github.io/UFOs/index.html)
+Bellow you can see an image of the final webpage. You can also visit the webpage [here](https://pswil.github.io/UFOs/index.html) if you like.
 
 ![alt text](https://github.com/PSWil/UFOs/blob/main/static/images/Page_overview.png)
 
