@@ -5,12 +5,14 @@
 Overview of the analysis:
 
 ![alt text](https://github.com/PSWil/UFOs/blob/main/static/images/Page_overview.png)
-![alt text](https://github.com/PSWil/UFOs/blob/main/static/images/Page_search.png)
 
 The purpose is well defined (2 pt)
 Results:
 
 There is a description of how to perform a search, with images. (Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.) (4 pt)
+
+[alt text](https://github.com/PSWil/UFOs/blob/main/static/images/Page_search.png)
+
 Summary: 
 
 The summary addresses one drawback of this webpage (2 pt)
