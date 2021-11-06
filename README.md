@@ -1,4 +1,6 @@
-# UFOs  (https://pswil.github.io/UFOs/index.html)
+# UFOs  
+
+[View the Page Here!](https://pswil.github.io/UFOs/index.html)
 
 Overview of the analysis:
 
@@ -12,5 +14,3 @@ The summary addresses one drawback of this webpage (2 pt)
 The summary addresses two additional recommendations for further development (4 pt)
 (In a summary statement, describe one drawback of this new design and two recommendations for further development.)
 
-
-[Lets go to the Page](https://pswil.github.io/UFOs/index.html)
