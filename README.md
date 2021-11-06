@@ -16,7 +16,15 @@ The resulting page that includes some background on the history and controversy 
 
 ## Summary
 
+
+
+- does not have the functionality to add live data as it comes in. The data that is a part of the data file will stay the same unless someone manually goes in and updates it.
+- two recommendations for future changes would be the implement live data functionality and be able to filter both the duration of the sighting and buzz words from the comments.
+
+- one drawback is that Javascript language is case sensitive. This is can impact the user experience because all of the searchable data is lowercase 
+- there are over seven "shape" results for the shape filter. The filter currently allows the end user to filter shape data by simply typing the search criteria into the search field. A dropdown option would enhance the user experience if there were a dropdown option for "Shape" due to the broad range of descriptions. Those unfamiliar with UFO sightings may not know that "light" is considered a shape for UFOs.
+
+
 The summary addresses one drawback of this webpage (2 pt)
 The summary addresses two additional recommendations for further development (4 pt)
-(In a summary statement, describe one drawback of this new design and two recommendations for further development.)
 
