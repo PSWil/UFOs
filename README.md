@@ -9,7 +9,9 @@ The purpose of this project is to create an easy-to-use webpage that contains a 
 Bellow you can see an image of the final webpage. You can also visit the page [here](https://pswil.github.io/UFOs/index.html) if you like.
 
 ![alt text](https://github.com/PSWil/UFOs/blob/main/static/images/Page_overview.png)
+
 ### Filtering the Table
+
 The resulting page that includes some background on the history and controversy surrounding UFO sightings. Below this introduction is the table itself with some search boxes adjacent with several search criteria including Date, City, State, Country, Shape. 
 In order to filter the table of date the user just needs to enter their desired criteria that they would like to search by, and press return to see the filtered data set. Users can immediately conduct a new search with new criteria in the search boxes or can return to the home page by clicking on 'UFO Sightings' in the top left corner. You can see the result of a filtered search below.
 
@@ -17,8 +19,11 @@ In order to filter the table of date the user just needs to enter their desired 
 
 ## Summary
 
+### Drawbacks
+
 The webpage and table do a very good job of displaying and filtering the data of UFO sightings in the US, it does however, have some shortcomings.
 
+### Further Recomendatations
 
 - does not have the functionality to add live data as it comes in. The data that is a part of the data file will stay the same unless someone manually goes in and updates it.
 - two recommendations for future changes would be the implement live data functionality and be able to filter both the duration of the sighting and buzz words from the comments.
