@@ -21,18 +21,12 @@ In order to filter the table of date the user just needs to enter their desired 
 
 ### Drawbacks
 
-The webpage and table do a very good job of displaying and filtering the data of UFO sightings in the US, it does however, have some shortcomings. The biggest drawback of the webpage in its current state is that it does not have the functionality to add live data, because of this the user can only see results from a specific time period and may not get all the relevant data that could be available. Additionally, search functionality is case sensitive so users must be careful to correctly enter the search criteria.
+The webpage and table do a very good job of displaying and filtering the data of UFO sightings in the US, it does however, have some shortcomings. The biggest drawback of the webpage in its current state is that it does not have the functionality to add live data, because of this the user can only see results from a specific time period and may not get all the relevant data that could be available. 
 
 ### Further Recommendations
 
-
-
-- two recommendations for future changes would be the implement live data functionality and be able to filter both the duration of the sighting and buzz words from the comments.
-
-- one drawback is that Javascript language is case sensitive. This is can impact the user experience because all of the searchable data is lowercase 
-- there are over seven "shape" results for the shape filter. The filter currently allows the end user to filter shape data by simply typing the search criteria into the search field. A dropdown option would enhance the user experience if there were a dropdown option for "Shape" due to the broad range of descriptions. Those unfamiliar with UFO sightings may not know that "light" is considered a shape for UFOs.
-
-
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development (4 pt)
+There are many potential things we can do in order to improve the webpage and the usability of the table. 
+- My first recomendation would be to implement some functionality of the page in order to update the data set with new data as it comes in, either via api's or webscrapping. With more current data being loaded into the data set, users will have a more complete understanding of the UFO sightings in the US. 
+- Additionally, search functionality is case sensitive so users must be careful to correctly enter the search criteria.
+There are many things we could do to improve the overall experience and functionallity of the table, but these two things should be a good start to make it a more relevent webpage.
 
