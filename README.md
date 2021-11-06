@@ -21,11 +21,12 @@ In order to filter the table of date the user just needs to enter their desired 
 
 ### Drawbacks
 
-The webpage and table do a very good job of displaying and filtering the data of UFO sightings in the US, it does however, have some shortcomings.
+The webpage and table do a very good job of displaying and filtering the data of UFO sightings in the US, it does however, have some shortcomings. The biggest drawback of the webpage in its current state is that it does not have the functionality to add live data, because of this the user can only see results from a specific time period and may not get all the relevant data that could be available. Additionally, search functionality is case sensitive so users must be careful to correctly enter the search criteria.
 
 ### Further Recommendations
 
-- does not have the functionality to add live data as it comes in. The data that is a part of the data file will stay the same unless someone manually goes in and updates it.
+
+
 - two recommendations for future changes would be the implement live data functionality and be able to filter both the duration of the sighting and buzz words from the comments.
 
 - one drawback is that Javascript language is case sensitive. This is can impact the user experience because all of the searchable data is lowercase 
