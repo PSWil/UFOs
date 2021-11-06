@@ -11,7 +11,7 @@ Results:
 
 There is a description of how to perform a search, with images. (Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.) (4 pt)
 
-[alt text](https://github.com/PSWil/UFOs/blob/main/static/images/Page_search.png)
+![alt text](https://github.com/PSWil/UFOs/blob/main/static/images/Page_search.png)
 
 Summary: 
 
