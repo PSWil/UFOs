@@ -10,12 +10,7 @@ Bellow you can see an image of the final webpage. You can also visit the page [h
 
 ![alt text](https://github.com/PSWil/UFOs/blob/main/static/images/Page_overview.png)
 
-The resulting page that includes some background on the history and controversy surrounding UFO sightings. Below 
-
-Resulting is a webpage with a little background on the controversy behind UFO sightings and their significance.
-Just below, you will find sighting data that includes the following:
-
-On the webpage you can scroll through the table to see all of the different UFO sightings or you can use the filters on the left side. These filters allow you to filter the table by the date, city, state, country, or shape of UFO seen.
+The resulting page that includes some background on the history and controversy surrounding UFO sightings. Below this introduction is the table itself with some search boxes adjacent with several search criteria including: Date, City, State, Country, Shape. To filter the table of date the user just needs to enter their desired criteria that they would like to search by and press return to see the filtered data set. To return to the home page and begin a new search simply press the UFO Sightings text and the top left of the page to return to the index. You can see the result of a filtered search.
 
 ![alt text](https://github.com/PSWil/UFOs/blob/main/static/images/Page_search.png)
 
