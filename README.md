@@ -1,14 +1,16 @@
 # UFOs  
 
-[View the Page Here!](https://pswil.github.io/UFOs/index.html)
-
 ## Overview
 
-The purpose of this project is to compile data from different UFO encounters around the US and present them on one easy to use webpage. This webpage is created through JavaScript, html, and css.The purpose of this project is to create a clean webpage that contains a dynamic table of UFO sighting data. We've designed this table using Javascript as the primary coding language. Via the webpage, the end user can filter the data by various criteria and instantly see the results.
-
-![alt text](https://github.com/PSWil/UFOs/blob/main/static/images/Page_overview.png)
+The purpose of this project is to create a easy to use webpage that contains a dynamic table of data that was compiled from different UFO encounters around the US. The webpage was created using Javascript and html, and is filterable by several different criteria.
 
 ## Results
+
+Bellow you can see an image of the final webpage. There is also a link included so that users can visit the page.
+
+[Visit the Page](https://pswil.github.io/UFOs/index.html)
+
+![alt text](https://github.com/PSWil/UFOs/blob/main/static/images/Page_overview.png)
 
 There is a description of how to perform a search, with images. (Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.) (4 pt)
 
